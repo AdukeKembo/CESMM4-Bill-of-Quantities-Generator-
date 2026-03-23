@@ -1,0 +1,6 @@
+{
+  "name": "CESMM4 Bill of Quantities Generator",
+  "description": "An AI-powered application to generate a Bill of Quantities (BoQ) for civil engineering projects based on the Civil Engineering Standard Method of Measurement, Version 4 (CESMM4).",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
